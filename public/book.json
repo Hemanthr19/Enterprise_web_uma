@@ -1,0 +1,27 @@
+[
+    {
+      "_id": 1,
+      "title": "Relay",
+      "category": "Relay",
+      "coverImage": "book-4.jpeg"
+    },
+    {
+      "_id": 2,
+      "title": "MK-1 Coil",
+      "category": "MK-1 Coil",
+      "coverImage": "book-2.jpeg"
+    },
+    {
+      "_id": 3,
+      "title": "Motor Starter",
+      "category": "Motor Starter",
+      "coverImage": "book-3.jpeg"
+    },
+    {
+      "_id": 4,
+      "title": "CH Contactor",
+      "category": "CH Contactor",
+      "coverImage": "book-1.jpeg"
+    }
+  ]
+  
