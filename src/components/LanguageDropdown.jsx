@@ -5,7 +5,6 @@ import i18n from 'i18next'; // Import i18n instance
 const languages = [
   { code: 'EN', label: 'English', flag: 'https://flagcdn.com/w40/gb.png' },
   { code: 'FR', label: 'Français', flag: 'https://flagcdn.com/w40/fr.png' },
-  { code: 'DE', label: 'Deutsch', flag: 'https://flagcdn.com/w40/de.png' },
   { code: 'HI', label: 'हिन्दी', flag: 'https://flagcdn.com/w40/in.png' },
   { code: 'KA', label: 'ಕನ್ನಡ', flag: 'https://flagcdn.com/w40/in.png' }
 ];
